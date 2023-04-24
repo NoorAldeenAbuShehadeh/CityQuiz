@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CityQuiz/static/css/main.e6c13ad2.css",
+    "main.js": "/CityQuiz/static/js/main.8cff8faf.js",
+    "static/js/787.217d5324.chunk.js": "/CityQuiz/static/js/787.217d5324.chunk.js",
+    "index.html": "/CityQuiz/index.html",
+    "main.e6c13ad2.css.map": "/CityQuiz/static/css/main.e6c13ad2.css.map",
+    "main.8cff8faf.js.map": "/CityQuiz/static/js/main.8cff8faf.js.map",
+    "787.217d5324.chunk.js.map": "/CityQuiz/static/js/787.217d5324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8cff8faf.js"
+  ]
+}
